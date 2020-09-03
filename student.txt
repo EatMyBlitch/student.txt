@@ -1,0 +1,3 @@
+student name: Elias van Wieringen
+student number: 672726
+student class: HAIT1D
